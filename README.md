@@ -6,5 +6,5 @@ I work on software engineering projects involving distributed systems, automatio
 
 ## Selected projects
 
-- [Distributed EV Charging Platform](https://github.com/vicenteserna/distributed-ev-charging-platform) — a two-person university project simulating charging services, telemetry and a web dashboard. I led most of the implementation.
+- [Distributed EV Charging Platform](https://github.com/vicenteserna/distributed-ev-charging-platform) — a university project simulating charging services, telemetry and a web dashboard.
 - [Music Score Classifier](https://github.com/vicenteserna/music-score-classifier) — a personal OCR tool used to sort a real library of hundreds of scores by instrument.
